@@ -9,9 +9,9 @@ This project includes resources of workshop which was organized by [0x1Academy](
 
 Notes | Description
 -- | --
-01a_區塊鏈介紹 | 介紹區塊鏈基礎
-01b_區塊鏈進階 | 介紹區塊鏈進階概念
-02_以太坊與智能合約基礎 | 介紹以太坊和智能合約基礎
+[01a_區塊鏈介紹](https://github.com/john850512/smart_contract_workshop/blob/master/Notes/01a_%E5%8D%80%E5%A1%8A%E9%8F%88%E4%BB%8B%E7%B4%B9.md) | 介紹區塊鏈基礎
+[01b_區塊鏈進階](https://github.com/john850512/smart_contract_workshop/blob/master/Notes/01b_%E5%8D%80%E5%A1%8A%E9%8F%88%E9%80%B2%E9%9A%8E.md) | 介紹區塊鏈進階概念
+[02_以太坊與智能合約基礎](https://github.com/john850512/smart_contract_workshop/blob/master/Notes/02_%E4%BB%A5%E5%A4%AA%E5%9D%8A%E8%88%87%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84%E5%9F%BA%E7%A4%8E.md) | 介紹以太坊和智能合約基礎
 
 Smart Contract   | Description
 -- | --
