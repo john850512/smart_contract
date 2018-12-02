@@ -31,6 +31,13 @@ A virtual currency which named **MaoHsunCoin(MHC)**, was published on Main Ether
 ## How to get MHC?
 if you want to get MHC, just create issue or use other way to contact me:)
 
+## Certificate
+Certificate of workshop, which is deployed on blockchain, and can be vertify on [blockcerts](https://www.blockcerts.org/).
+<p align="center"><img src="img/07.png" width="60%"></p>
+
+Sucessful Vertify!
+<p align="center"><img src="img/06.png" width="40%"></p>
+
 ## Thanks!
 At last, thanks 寶博, Tina & Jeff and others people who help to hold this workshop!
 - Tina: https://github.com/tina1998612
