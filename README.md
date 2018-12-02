@@ -1,5 +1,5 @@
 # smart_contract_workshop
-This project includes resources of workshop which was organized by [0x1Academy](https://pub.bitrabbit.com/zh-tw/science).
+This repo includes resources of workshop which was organized by [0x1Academy](https://pub.bitrabbit.com/zh-tw/science).
 <p align="center"><img src="img/01.jpg" width="70%"></p>
 
 ## Resources
