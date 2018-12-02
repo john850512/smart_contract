@@ -3,7 +3,7 @@ This project includes resources of workshop which was organized by [0x1Academy](
 <p align="center"><img src="img/01.jpg" width="70%"></p>
 
 ## Resources
-下面列出了workshop上練習的smart contract，並且加上了我的中文註解
+下面列出了workshop我自己做的上課筆記，以及練習的所有smart contract，並且加上了中文註解
 
 想了解更多範例請參考: [https://github.com/BlockchainEduNet-HK/smart-contract-repo](https://github.com/BlockchainEduNet-HK/smart-contract-repo)
 
