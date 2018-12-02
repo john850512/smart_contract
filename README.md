@@ -9,10 +9,11 @@ This project includes resources of workshop which was organized by [0x1Academy](
 
 Notes | Description
 -- | --
-01 | --
-02 | --
+01a_區塊鏈介紹 | 介紹區塊鏈基礎
+01b_區塊鏈進階 | 介紹區塊鏈進階概念
+02_以太坊與智能合約基礎 | 介紹以太坊和智能合約基礎
 
-Smart Contract | Description
+Smart Contract   | Description
 -- | --
 [01_Storage.sol](https://github.com/john850512/smart_contract/blob/master/code_practice/01_Storage.sol) | 第一個智能合約，取得區塊鏈上的資訊
 [02_Counter.sol](https://github.com/john850512/smart_contract/blob/master/code_practice/02_Counter.sol) | 第二個智能合約，對區塊鏈上的資訊做運算
@@ -20,9 +21,7 @@ Smart Contract | Description
 [04_Random.sol](https://github.com/john850512/smart_contract/blob/master/code_practice/04_Random.sol) | 第四個智能合約，取得一個假亂數
 [05_Token.sol](https://github.com/john850512/smart_contract/blob/master/code_practice/05_Token.sol) | 第五個智能合約，建立一個發幣合約
 
-
-
-## The suggestive setup list
+The suggestive setup list
 - [Setup List for Smart Contract Development](https://gist.github.com/yhuag/5d8ee2fd46baff47edc923134048481c)
 
 ## MHC?
@@ -31,3 +30,9 @@ A virtual currency which named **MaoHsunCoin(MHC)**, was published on Main Ether
 
 ## How to get MHC?
 if you want to get MHC, just create issue or use other way to contact me:)
+
+## Thanks!
+At last, thanks 寶博, Tina & Jeff and others people who help to hold this workshop!
+- Tina: https://github.com/tina1998612
+- Jeff: https://github.com/yhuag
+- 寶博: https://github.com/dAAAb
